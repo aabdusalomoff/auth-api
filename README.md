@@ -24,8 +24,9 @@ Backend API с регистрацией и авторизацией через J
 
 ## Setup
 ```bash
-git clone <https://github.com/aabdusalomoff/auth-api.git>
+git clone https://github.com/aabdusalomoff/auth-api.git
 cd auth_api
 python -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
+
